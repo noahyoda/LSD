@@ -1,0 +1,10 @@
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\bin\Debug\netstandard2.0\LSDclass.deps.json
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\bin\Debug\netstandard2.0\LSDclass.dll
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\bin\Debug\netstandard2.0\LSDclass.pdb
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.AssemblyInfo.cs
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.dll
+C:\Users\Noah\Documents\Dev\c#_practice\Club\LSDclass\obj\Debug\netstandard2.0\LSDclass.pdb
